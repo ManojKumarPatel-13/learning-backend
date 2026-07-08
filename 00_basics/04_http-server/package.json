@@ -1,0 +1,12 @@
+{
+  "name": "leraning-server",
+  "version": "1.0.0",
+  "description": "to learn and make servers using node.js",
+  "license": "ISC",
+  "author": "Manoj Kumar Patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  }
+}

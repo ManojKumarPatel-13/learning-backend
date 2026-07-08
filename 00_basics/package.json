@@ -1,0 +1,16 @@
+{
+  "name": "00_basics",
+  "version": "1.0.0",
+  "description": "checking what this commands does and learning more about npm init",
+  "keywords": [
+    "manoj",
+    "test"
+  ],
+  "license": "ISC",
+  "author": "Manoj Kumar Patel",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
