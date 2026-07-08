@@ -1,0 +1,15 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "Learnign abotu express framework",
+  "license": "ISC",
+  "author": "Manoj Kumar Patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
