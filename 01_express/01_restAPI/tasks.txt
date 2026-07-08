@@ -1,0 +1,18 @@
+what all we have to do 
+
+have to create a rest api to deal with json data
+
+GET /users - HTML page render done
+
+GET /api/users - List all users done
+
+GET/api/users/1 - Get the user with ID 1 done
+GET/api/users/2 - Get the user with ID 2 done
+
+POST/api/users - Create a new user
+
+PUT/api/users/1 - Completely change the data of user with ID 1
+
+PATCH/api/users/1 - Update the data of user with ID 1
+
+DELETE/api/users/1 - Delete teh data of user with ID 1
