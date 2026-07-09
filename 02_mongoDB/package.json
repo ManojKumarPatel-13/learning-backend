@@ -1,0 +1,16 @@
+{
+  "name": "02_mongodb",
+  "version": "1.0.0",
+  "description": "learning mongodb",
+  "license": "ISC",
+  "author": "Manoj Kumar Patel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.7.4"
+  }
+}
