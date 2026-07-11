@@ -1,0 +1,13 @@
+{
+  "name": "35_scale_nodejs_app_using_cluster_module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
