@@ -1,0 +1,1 @@
+## this folder is created to practice data modelling with different examples
